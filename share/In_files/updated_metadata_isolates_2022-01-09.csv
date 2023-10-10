@@ -1,0 +1,369 @@
+analysis code,strain,alias 1,alias 2,seq batch,seq platform ,read length ,taxon,Year of isolation ,country,continent,location,host,TgsGP-qPCR,SRA-qPCR
+108AT,MHOM/CD/INRB/2007/25B,108AT,,BATCH1,BGI,150,T.b. gambiense type I,2007,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+108BT,MHOM/CD/INRB/2007/27,108BT,,BATCH1,BGI,150,T.b. gambiense type I,2007,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+15BT-relapse,MHOM/CD/INRB/2008/56,15BT,,BATCH1,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+348BT,MHOM/CD/INRB/2006/23A,348BT,,BATCH1,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+57AT,MHOM/CD/INRB/2007/28,57AT,,BATCH1,BGI,150,T.b. gambiense type I,2007,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+ABBA,MHOM/CI/83/DAL626,ABBA ,,BATCH1,BGI,150,T.b. gambiense type II,1983,Côte d'Ivoire,West Africa,,man,,
+40-1,,,,WEIR,ILLUMINA,100,,,,,,,NA,NA
+AnTat-12-1S,MHOM/RW/71/VANDERDORP,AnTat-12-1S,ANTAR 12,BATCH1,BGI,150,T.b. rhodesiense,1971,Rwanda,East Africa,,man,,
+BIM-AnTat-8-1-P8,MHOM/CM/76/OCEAC,BIM ,ANTAR 8,BATCH1,BGI,150,T.b. gambiense type I,1976,Cameroon,Central Africa,,man,,
+Bosendja,MHOM/ZR/72/KIN001,BOSENDJA,ANTAR 6,BATCH1,BGI,150,T.b. gambiense type I,1972,Democratic Republic of the Congo,Central Africa,,man,,
+FEO,FEO-MURAZ,FEO-S,ANTAR 27,BATCH1,BGI,150,T.b. gambiense type II,1938,Togo,West Africa,,man,,
+FEO-AnTat-16-1,FEO-PASTEUR,FEO-R,ANTAR 16,BATCH1,BGI,150,T.b. gambiense type II,1938,Togo,West Africa,,man,,
+ABBA_b,MHOM/CI/83/DAL626,,,WEIR,ILLUMINA,75,uncertain,,,,,,NA,NA
+AGAL-CI-78-TCH312,AGAL/CI/78/TCH312,TCH312 78E,,BATCH1,BGI,150,T.b. brucei,1978,Côte d'Ivoire,West Africa,,chicken,-1,-1
+Jua,MHOM/CM/76/OCEAC,JUA,ANTAR 19,BATCH1,BGI,150,T.b. gambiense type I,1976,Cameroon,Central Africa,Fontem,man,,
+LIGO,MHOM/CI/84/DAL655,LIGO ,,BATCH1,BGI,150,T.b. gambiense type II,1984,Côte d'Ivoire,West Africa,,man,,
+LiTat-1-5-P9,MHOM/CI/52/ELIANE,LiTat 1.5,ELIANE,BATCH1,BGI,150,T.b. gambiense type I,1952,Côte d'Ivoire,West Africa,"Daloa, Sassandra-Marahoué",man,,
+LOGRA,MHOM/ZR/68/ITMAP1832,LOGRA ,,BATCH1,BGI,150,T.b. gambiense type I,1968,Democratic Republic of the Congo,Central Africa,,man,,
+MBA,MHOM/ZR/74/ITMAP1811,MBA,ANTAR 11,BATCH1,BGI,150,T.b. gambiense type I,1974,Democratic Republic of the Congo,Central Africa,Kinshasa,man,,
+AGAL-CI-78-TCH312-bis,AGAL/CI/78/TCH312,TCH312 78E,,BATCH3,BGI,150,T.b. brucei,1978,Côte d'Ivoire,West Africa,,chicken,-1,-1
+AnTar-2,,,,BATCH3,BGI,150,,,,,,,-1,-1
+AnTar-30,,,,BATCH3,BGI,150,,,,,,,NA,NA
+MHOM-SD-82-BIYAMINA,MHOM/SD/82/BIYAMINA,BIYAMINA,K 2567,BATCH1,BGI,150,T.b. rhodesiense,1982,Sudan,North Africa,YAMBIO,man,,
+MHOM-SD-82-MUSIKIA-cloneA,MHOM/SD/82/MUSIKIA/cloneA,NZARA,K 2572,BATCH1,BGI,150,T.b. gambiense type I,1982,South Sudan,East Africa,"Nzara, Western Equatoria",man,,
+MHOM-ZM-80-TRPZ-23,MHOM/ZM/80/TRPZ23,TRPZ 23,,BATCH1,BGI,150,T.b. rhodesiense,1980,Zambia,East Africa,KOUASSI-PERITA,man,,
+MHOM-ZM-83-TRPZ-349,MHOM/ZM/83/TRPZ349,TRPZ 349,,BATCH1,BGI,150,T.b. rhodesiense,1983,Zambia,East Africa,"KATYETYE,MPEBELE",man,,
+MSUS-CI-78-TSW-157,MSUS/CI/78/TSW157,TSW157 78E,,BATCH1,BGI,150,T.b. gambiense type II,1978,Côte d'Ivoire,West Africa,Koetinga,pig,,
+AnTat-1-1,MTRG/UG/66/EATRO1125,AnTat_1.1,"EATRO 1125, MAVUBWE",BATCH2,BGI,150,T.b. brucei,1966,Uganda,Central Africa,Busoga,bushbuck,-1,-1
+AnTat-1-1E,MTRG/UG/66/EATRO1125,AnTat_1.1E,"EATRO 1125, MAVUBWE",BATCH2,BGI,150,T.b. brucei,1966,Uganda,Central Africa,Busoga,bushbuck,-1,-1
+AnTat-17-1,MOVS/ZR/78/KIM1,"Kimalaya 1, KIM1, ANTAR 17",,BATCH2,BGI,150,T.b. brucei,1978,Democratic Republic of the Congo,Central Africa,,sheep,-1,-1
+Nabe,MHOM/ZR/95/ITMAP2566,NABE,,BATCH1,BGI,150,T.b. gambiense type I,1995,Democratic Republic of the Congo,Central Africa,,man,,
+NDMI,MHOM/CG/80/NDIMI,NDIMI,,BATCH1,BGI,150,T.b. gambiense type I,1980,Congo-Brazzaville,Central Africa,Ngabe,man,,
+NKOUA,MHOM/CG/80/NKOUA,NKOUA,,BATCH1,BGI,150,T.b. gambiense type I,1980,Congo-Brazzaville,Central Africa,Ngabe,man,,
+OUSOU,MHOM/CI/82/DAL494,OUSOU,,BATCH1,BGI,150,T.b. gambiense type I,1982,Côte d'Ivoire,West Africa,,man,,
+Pakwa,MHOM/ZR/95/ITMAP2570,PAKWA,,BATCH1,BGI,150,T.b. gambiense type I,1995,Democratic Republic of the Congo,Central Africa,,man,,
+ROUPO-VAVOUA--80-MURAZ-14,MHOM/CI/80/MURAZ14,MURAZ 14,ROUPO,BATCH1,BGI,150,T.b. gambiense type I,1980,Côte d'Ivoire,West Africa,,man,,
+Rumphi,MHOM/MW/2007/RUMPHI,RUMPHI,,BATCH1,BGI,150,T.b. rhodesiense,2007,Malawi,Southern Africa ,,man,,
+STIB-851,UTRO 281290,STIB 851,,BATCH1,BGI,150,T.b. rhodesiense,1990,Uganda,East Africa,,man,,
+940,MEQH/ET/AAU/08/834-940,Dodola 940,,BATCH2,BGI,150,T. equiperdum,2008,Ethiopia,East Africa,,horse,,
+280104,MBUB/ID/82/BAKIT129,RoTat 1.2,,BATCH2,BGI,150,T. evansi A,1982,Indonesia,Asia,,water buffalo,,
+104AT,MHOM/CD/INRB/2008/53A,104AT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+104BT,MHOM/CD/INRB/2008/49,104BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+105BT,MHOM/CD/INRB/2008/50,105BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+113AT,MHOM/CD/INRB/2008/60,113AT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+113BT,MHOM/CD/INRB/2008/45,113BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+130BT,MHOM/CD/STI/2006/02,130BT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+141BT,MHOM/CD/INRB/2008/64,141BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+146AT,MHOM/CD/INRB/2006/05,146AT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+146BT,MHOM/CD/INRB/2005/02A,146BT,,BATCH2,BGI,150,T.b. gambiense type I,2005,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+148AT,MHOM/CD/INRB/2006/14,148AT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+148BT,MHOM/CD/INRB/2005/01B,148BT,,BATCH2,BGI,150,T.b. gambiense type I,2005,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+163AT,MHOM/CD/INRB/2006/06A,163AT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+163AT-relapse,MHOM/CD/INRB/2006/06B,163AT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+167AT,MHOM/CD/INRB/2008/43,167AT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+167BT,MHOM/CD/INRB/2008/47,167BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+174AT,MHOM/CD/INRB/2007/29,174AT,,BATCH2,BGI,150,T.b. gambiense type I,2007,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+174BT,MHOM/CD/INRB/2008/59,174BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+19BT,MHOM/CD/INRB/2008/46,19BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+223AT,MHOM/CD/INRB/2006/12A,223AT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+29BT,MHOM/CD/INRB/2008/65,29BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+340AT,MHOM/CD/INRB/2006/21B,340AT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+346AT-relapse,MHOM/CD/INRB/2007/24B,346AT_relapse,,BATCH2,BGI,150,T.b. gambiense type I,2007,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+346BT,MHOM/CD/INRB/2007/22B,346BT,,BATCH2,BGI,150,T.b. gambiense type I,2007,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+349BT,MHOM/CD/INRB/2006/16,349BT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+378BT,MHOM/CD/INRB/2007/34,378BT,,BATCH2,BGI,150,T.b. gambiense type I,2007,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+40AT,MHOM/CD/INRB/2006/07,40AT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+40BT,MHOM/CD/INRB/2006/13,40BT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+45BT,MHOM/CD/INRB/2006/01,45BT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+48BT,MHOM/CD/INRB/2008/52,48BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+85BT,MHOM/CD/INRB/2008/62,85BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+93AT,MHOM/CD/INRB/2006/09,93AT,,BATCH2,BGI,150,T.b. gambiense type I,2006,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+95BT,MHOM/CD/INRB/2008/63,95BT,,BATCH2,BGI,150,T.b. gambiense type I,2008,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+Alfort,Alfort,Alfort,,BATCH2,BGI,150,T. evansi A,,,,,,,
+ALJO,MHOM/ZR/75/ITMAP1829,ALJO,,BATCH2,BGI,150,T.b. gambiense type I,1975,Democratic Republic of the Congo,Central Africa,,man,,
+AMBOU,MHOM/CG/80/AMBOU,AMBOU,,BATCH2,BGI,150,T.b. gambiense type I,1980,Congo-Brazzaville,Central Africa,Ngabe,man,,
+American-Strain,American_Strain,American_Strain,,BATCH2,BGI,150,T. evansi A,,,,,,,
+AnTat-25-1S-bis,,,,BATCH3,BGI,150,,,,,,,-1,Cq 21 for but negative in 2 other extracts
+AnTat-34-1-P10,MOVS/ZR/78/KIM2,"Kimalaya 2, KIM2",AnTat_34.1_P10,BATCH2,BGI,150,T.b. brucei,1978,Democratic Republic of the Congo,Central Africa,,sheep,-1,-1
+AnTat-11-17,MHOM/ZR/74/ITMAP1811,MBA,AnTat_11.17,BATCH2,BGI,150,T.b. gambiense type I,1974,Democratic Republic of the Congo,Central Africa,,man,,
+AnTat-5-2,GUTR 22,AnTat_5.2 ,ILRAD B5,BATCH2,BGI,150,T.b. brucei,1975,Gambia,West Africa,,cattle,-1,-1
+AnTat-25-1S,MHOM/RW/71/ITMAP403,AnTat_25.1S,,BATCH2,BGI,150,T.b. rhodesiense,1971,Rwanda,Central Africa,,man,,
+AnTat-3-1,AnTat_3.1,AnTat_3.1,,BATCH2,BGI,150,T. evansi A,1969,,South America,,capybara,,
+AnTat-3-3,AnTat_3.3,AnTat_3.3,,BATCH2,BGI,150,T. evansi A,1969,,South America,,capybara,,
+B4-C-91S,,,,WEIR,ILLUMINA,100,,,,,,,NA,NA
+AnTat-4-1,AnTat_4.1,Antat 1/eq/S1,,BATCH2,BGI,150,T. equiperdum,?,,,,horse,,
+BIM,MHOM/CM/76/OCEAC,,,WEIR,ILLUMINA,75,,,,,,,NA,NA
+ATCC-30019,ATCC 30023,ATCC 30023,,BATCH2,BGI,150,T. evansi A,,,,,horse,,
+ATCC-30023,ATCC 30019,ATCC 30019,,BATCH2,BGI,150,T. evansi A,,,,,,,
+ATCC30019,ATCC 30019,ATCC 30019,,BATCH2,BGI,150,T. evansi A,,,,,horse,,
+Bage,MHOM/ZR/95/ITMAP2569,BAGE,,BATCH2,BGI,150,T.b. gambiense type I,1995,Democratic Republic of the Congo,Central Africa,unknown,man,,
+BoTat-1-1,BoTat_1.1,BoTat_1.1,,BATCH2,BGI,150,T. equiperdum,,Morocco,,,horse,,
+BRAZAVILLE-BB,MHOM/CG/73/BB,BRAZAVILLE_BB,,BATCH2,BGI,150,T.b. gambiense type I,1973,Congo-Brazzaville,Central Africa,unknown,man,,
+Canadian-Strain,Canadian_Strain,Canadian_Strain,,BATCH2,BGI,150,T. evansi A,,,,,horse,,
+Colombia,EQH/CO/73/E9-CL2,Colombia,,BATCH2,BGI,150,T. evansi A,1973,Colombia,,,horse,,
+E28,E28,E28,,BATCH2,BGI,150,T. equiperdum,1977,Italy,,,horse,,
+Etat-1-2R,GPAL/UG/60/EATRO3,Etat_1.2R,"TREU 164, LUMP 63",BATCH2,BGI,150,T.b. rhodesiense,1960,Uganda,Central Africa,"Lugala, Busoga",tsetse,,
+GMOM-ZM-83-TRPZ-317,GMOM/ZM/83/TRPZ317,TRPZ 317,,BATCH1,BGI,150,T.b. brucei,1983,Zambia,East Africa,Kakumbi,tsetse,-1,-1
+GMOM-ZM-83-TRPZ323,GMOM/ZM/83/TRPZ323,TRPZ323,,BATCH2,BGI,150,T.b.,1983,Zambia,Southern Africa ,Kakumbi,tsetse,-1,-1
+GPAL-ZM-80-TRPZ13,GPAL/ZM/80/TRPZ13,TRPZ13,,BATCH2,BGI,150,T.b.,1980,Zambia,Southern Africa ,Kakumbi,tsetse,-1,-1
+GPAL-ZM-83TRPZ265,GPAL/ZM/83/TRPZ320,TRPZ320,,BATCH2,BGI,150,T.b.,1983,Zambia,Southern Africa ,Kakumbi,tsetse,-1,-1
+GUIWI-BOBO80-MURAZ18,MHOM/BF/80/MURAZ18,GUIWI MURAZ 18,,BATCH2,BGI,150,T.b. gambiense type I,1980,Burkina Faso,West Africa,Bobo-Dioulasso,man,,
+HAMBURG,HAMBURG,HAMBURG,,BATCH2,BGI,150,T. evansi A,,,,,horse,,
+INRB-2009-56A-15BT,MHOM/INRB/2009/56,15BT,,BATCH2,BGI,150,T.b. gambiense type I,2009,Democratic Republic of the Congo,Central Africa,"Mbuji-Mayi, Kasai-Oriental",man,,
+ITM001,MHOM/BE/2015/ITM/001,ITM001,,BATCH2,BGI,150,T.b. rhodesiense,2015,Uganda,Central Africa,,man,,
+GPAL-ZM-83-TRPZ320,GPAL/ZM/83TRPZ265,TRPZ265,,BATCH2,BGI,150,T.b.,1983,Zambia,Southern Africa ,Kakumbi,tsetse,-1,-1
+Kazakstan,Kazachstan,Kazachstan,,BATCH2,BGI,150,T. evansi A,1995,Kazachstan,Asia,,camel,,
+Kenya,MCAM/KE/80/KETRI2480,KETRI 2480,,BATCH2,BGI,150,T. evansi A,,Kenya,East Africa,,camel,,
+KISOU-BOBO-80-MURAZ15,MHOM/BF/80/MURAZ15,MURAZ15,,BATCH2,BGI,150,T.b. gambiense type I,1980,Burkina Faso,West Africa,Bobo-Dioulasso,man,,
+KOUAM-DALOA,MHOM/CI/79/MURAZ5,KOUAM,MURAZ 5,BATCH2,BGI,150,T.b. gambiense type I,,Côte d'Ivoire,West Africa,Haouguhe,man,,
+GPAP-CI-82-KP10-29,GPAP/CI/82/KP10-29,TM KP10/82/29,,BATCH1,BGI,150,T.b. brucei,1982,Côte d'Ivoire,West Africa,KOUASSI-PERITA,tsetse,-1,-1
+GPAP-CI-82-KP10-29-bis,GPAP/CI/82/KP10-29,TM KP10/82/29,,BATCH3,BGI,150,T.b. brucei,1982,Côte d'Ivoire,West Africa,KOUASSI-PERITA,tsetse,-1,-1
+GTAC-ET-70-GAMBELA4,,,,BATCH3,BGI,150,,1970,Ethiopia,East Africa,"PINYBAGO, ILLUBABOR PROVINCE",G.TACHINOIDES,NA,NA
+LOKO,MHOM/ZR/73/ITMAP1831,LOKO,,BATCH2,BGI,150,T.b. gambiense type I,1973,Democratic Republic of the Congo,Central Africa,unknown,man,,
+MBOI-ZM-82-TRPZ260,MBOI/ZM/82/TRPZ260,TRPZ260,,BATCH2,BGI,150,T.b. rhodesiense,1982,Zambia,Southern Africa ,Kakumbi,cattle,,
+MCAM-ET-2013-MU-01,MCAM/ET/2013/MU/01,M01,,BATCH2,BGI,150,T. evansi A,2013,Ethiopia,,,camel,,
+MCAM-ET-2013-MU-02,MCAM/ET/2013/MU/02,M01,,BATCH2,BGI,150,T. evansi A,2013,Ethiopia,,,camel,,
+MCAM-ET-2013-MU-04,MCAM/ET/2013/MU/04,M04,,BATCH2,BGI,150,T. evansi A,2013,Ethiopia,,,camel,,
+MCAM-ET-2013-MU-05,MCAM/ET/2013/MU/05,M05,,BATCH2,BGI,150,T. evansi A,2013,Ethiopia,,,camel,,
+MCAM-ET-2013-MU-09,MCAM/ET/2013/MU/09,M09,,BATCH2,BGI,150,T. evansi A,2013,Ethiopia,,,camel,,
+MCAM-ET-2013-MU-14,MCAM/ET/2013/MU/14,M14,,BATCH2,BGI,150,T. evansi B,2013,Ethiopia,,,camel,,
+MCAM-ET-2013-MU-17,MCAM/ET/2013/MU/17,M17,,BATCH2,BGI,150,T. evansi A,2013,Ethiopia,,,camel,,
+MCAP-ZM-83-TRPZ267,MCAP/ZM/83/TRPZ267,TRPZ267,,BATCH2,BGI,150,T.b. rhodesiense,1983,Zambia,Southern Africa ,Kouassi-Perita,goat,,
+Merzouga-56,MCAM/MA/97/Merzouga-56,Merzouga_56,,BATCH2,BGI,150,T. evansi A,1997,Morocco,,,camel,,
+MHOM-CI-78-DALOA69,MHOM/CI/78/DALOA069,DAL 069,,BATCH2,BGI,150,T.b. gambiense type I,1978,Côte d'Ivoire,West Africa,Koetinga,man,,
+ITMAP1892,,,,BATCH3,BGI,150,,,,,,,NA,NA
+MHOM-CI-78-TH113,MHOM/CI/78/TH113,TH113 78E,,BATCH2,BGI,150,T.b. gambiense type II,1978,Côte d'Ivoire,West Africa,KOUDOUGOU,man,,
+J10,MCRO/ZM/73/J10,J10,,BATCH2,BGI,150,T.b. brucei,1973,Zambia,Southern Africa ,,hyena,-1,-1
+Lister-427,Lister_427,Lister_427,Shinyanga III,BATCH2,BGI,150,T.b. brucei,1956,Tanzania,East Africa,,cattle,NA,NA
+MHOM-CI-TH162,MHOM/CI/78/TH162,TH162 78E,,BATCH2,BGI,150,T.b. gambiense type II,1978,Côte d'Ivoire,West Africa,SIETINFLA,man,,
+MHOM-KE-81-LVH122,MHOM/KE/81/LVH122,LVH 122,,BATCH2,BGI,150,T.b. rhodesiense,1981,Kenya,East Africa,"Ndisi, Lambwe Valley",man,,
+MHOM-KE-82-LVH61R,MHOM/KE/82/LVH61R,LVH 61 R,,BATCH2,BGI,150,T.b. rhodesiense,1982,Kenya,East Africa,"Kamako, Lambwe Valley",man,,
+MHOM-UG-77-KETRI-2355,MHOM/UG/77/KETRI/2355,KETRI 2355,,BATCH2,BGI,150,T.b. rhodesiense,1977,Uganda,East Africa,"SIANYONJA,GONDOKERA",man,,
+MHOM-ZM-82-TRPZ186,MHOM/ZM/82/TRPZ186,TRPZ186,,BATCH2,BGI,150,T.b. rhodesiense,1982,Zambia,East Africa,"POLITO,CHIKWANDA",man,,
+Lister-427-AT1-KO,Lister_427_AT1_KO,Lister_427_AT1_KO,Shinyanga III,BATCH2,BGI,150,T.b. brucei,1956,Tanzania,East Africa,,cattle,NA,NA
+LIZZARD,RVAR/KE/96/ICIPE/LIZARD,LIZARD,,BATCH2,BGI,150,T.b. brucei,1996,Kenya,East Africa,,monitor lizard,-1,-1
+LOPEZ,,,,BATCH3,BGI,150,,,,,,,NA,NA
+MALC-BF-80-AB14,,,,BATCH3,BGI,150,,,Burkina Faso,West Africa,,hartebeest,NA,NA
+MALC-BF-80-AB25,,,,BATCH3,BGI,150,,1980,Burkina Faso,West Africa,,hartebeest,NA,NA
+MBO-NG-74-R10,MBO?/NG/74/R10,R 10,,BATCH1,BGI,150,T.b. brucei,1974,Nigeria,West Africa,IBADAN,cattle,-1,-1
+MBO-NG-74-R10-bis,MBO?/NG/74/R10,R 10,,BATCH3,BGI,150,T.b. brucei,1974,Nigeria,West Africa,IBADAN,cattle,-1,-1
+MBOT-CI-78-TC348,,,,BATCH3,BGI,150,,,Côte d'Ivoire,West Africa,KOUDOUGOU-CARREFOUR,cattle,-1,-1
+MSUS-CI-78-TSW390,MSUS/CI/78/TSW390,TSW 390,,BATCH2,BGI,150,T.b. gambiense type I,1978,Côte d'Ivoire,West Africa,Kouassi-Perita,pig,,
+MBOT-GM-77-GB2,MBOT/GM/77/GB2,GAM 2,,BATCH1,BGI,150,T.b. brucei,1977,The Gambia,West Africa,KANTONG KUNDA,cattle,-1,-1
+MCAP-CI-91-BALEA-2,MCAP/CI/91/BALEA/2,BALEA 2,,BATCH1,BGI,150,T.b. brucei,1991,Côte d'Ivoire,West Africa,,goat,-1,-1
+MHOM-CI-78-DALOA72-cloneA,MHOM/CI/78/DALOA72-cloneA,DAL 72,,BATCH2,BGI,150,T.b.,1978,Côte d'Ivoire,West Africa,"Vavoua, Sassandra-Marahoué",man,Cq 20,-1
+MHOM-CI-78-TH1-037,,,,BATCH3,BGI,150,T. brucei,,Côte d'Ivoire,West Africa,,man,-1,-1
+MHOM-CI-78-TH2,,,,BATCH3,BGI,150,T. brucei,1978,Côte d'Ivoire,West Africa,KOUDOUGOU,man,-1,-1
+MSUS-CI-82-TSW65-KP1-exbiit,MSUS/CI/82/TSW65_KP1_exbiit,TSW65 82E KP1,,BATCH2,BGI,150,T.b. gambiense type II,1982,Côte d'Ivoire,West Africa,Kouassi-Perita,pig,,
+MHOM-CI-79-DALOA74,MHOM/CI/79/DALOA074,DAL 74,,BATCH2,BGI,150,T.b.,1979,Côte d'Ivoire,West Africa,"Vavoua, Sassandra-Marahoué",man,Cq 20.9,-1
+MHOM-CI-79-MURAZ3,,,,BATCH3,BGI,150,T. brucei,1979,Côte d'Ivoire,West Africa,KOETINGA,man,-1,-1
+MHOM-CI-91-SIQUE1623,MHOM/CI/91/SIQUE1623,SIQUE,,BATCH2,BGI,150,T.b.,1991,Côte d'Ivoire,West Africa,,man,Cq 21.3,-1
+MSUS-NG-62-B8-18-cloneB,MSUS/NG/62/B8-18-cloneB,B 8/18 CLONE B,,BATCH2,BGI,150,T.b. gambiense type II,1962,Nigeria,West Africa,Nsukka,pig,,
+OVI,OVI,OVI,,BATCH2,BGI,150,T. equiperdum,,South Africa,,,horse,,
+PEYA,MHOM/CG/80/PEYA,PEYA,,BATCH2,BGI,150,T.b. gambiense type I,1980,Congo-Brazzaville,Central Africa,Ngabe,man,,
+Philippines,PHILIPPINES,PHILIPPINES,,BATCH2,BGI,150,T. evansi A,1996,The Philippines,,,water buffalo,,
+Seka,MHOM/ZR/95/ITMAP2568,SEKA,,BATCH2,BGI,150,T.b. gambiense type I,1995,Democratic Republic of the Congo,Central Africa,,man,,
+STIB-816,MCAC/CN/78/STIB816,STIB16,,BATCH2,BGI,150,T. evansi A,1978,China,,,bactrian camel,,
+STIB818,MEQH/CN/79/STIB818,STIB818,,BATCH2,BGI,150,T. equiperdum,1979,China,,,horse,,
+STIB847,MHOM/UG/90/UTRO211190,UTRO 211190,STIB847,BATCH2,BGI,150,T.b. rhodesiense,1990,Uganda,East Africa,,man,,
+STIB882,MHOM/UG/93/UTRO100893,UTRO 100893,STIB882,BATCH2,BGI,150,T.b. rhodesiense,1993,Uganda,East Africa,,man,,
+STIB883,MHOM/UG/94/UTRO130994,UTRO 130994,STIB883,BATCH2,BGI,150,T.b. rhodesiense,1994,Uganda,East Africa,,man,,
+SVP,SVP,SVP,,BATCH2,BGI,150,T. evansi A,,,,,,,
+Te-Ap-N-D1,MEQH/VE/91/TeAp-N/D1,Te_Ap_N/D1,"TEVA 1, TEVA 505 AL 81",BATCH2,BGI,150,T. equiperdum,1991,Venezuela,,,horse,,
+Zagora-I-17,MCAM/MA/97/Zagora-I.17,Zagora I.17,,BATCH2,BGI,150,T. evansi A,1997,Morocco,,,camel,,
+MHOM-ET-67-GAMBELA1,,,,BATCH3,BGI,150,T. brucei,1967,Ethiopia,East Africa,"GAMBELA,ILLUBABOR",man,-1,Cq 21.3
+MHOM-ET-69-GAMBELA3,,,,BATCH3,BGI,150,T. brucei,1969,Ethiopia,East Africa,"DIPA, ILLUBABOR PROVINCE",man,NA,NA
+MHOM-KE-82-LVH61R-bis,,,,BATCH3,BGI,150,T. brucei,1982,Kenya,East Africa,"KAMAKO,LAMBWE VALLEY",man,-1,Cq 22 (2 out 2 extracts)
+AnTar-7,,,,BATCH3,BGI,150,T. evansi A,,,,,,,
+AnTat-21-1,,OK,,BATCH3,BGI,150,T.b. gambiense type I,,Central African Republic,Central Africa,,,,
+MHOM-ZR-71-C126,MHOM/ZR/71/C126,C126,,BATCH2,BGI,150,T.b.,1971,Democratic Republic of the Congo,Central Africa,Kinshasa,man,Cq 20.5,-1
+AnTat-4-1-bis,,,,BATCH3,BGI,150,T. equiperdum A,,,,,horse,,
+AnTat-9-1,,AYL,,BATCH3,BGI,150,T.b. gambiense type I,,Cameroon,Central Africa,,,,
+BAT1,MHOM/RCA/99/BAT1,,,BATCH3,BGI,150,T.b. gambiense type I,1999,Central African Republic,Central Africa,Batangafo,human,,
+BAT31,MHOM/RCA/99/BAT31,,,BATCH3,BGI,150,T.b. gambiense type I,1999,Central African Republic,Central Africa,Batangafo,human,,
+BAT33,MHOM/RCA/99/BAT33,,,BATCH3,BGI,150,T.b. gambiense type I,1999,Central African Republic,Central Africa,Batangafo,human,,
+BIP24,MHOM/CM/99/BIP24,,,BATCH3,BGI,150,T.b. gambiense type I,1999,Cameroon,Central Africa,Bipindi,human,,
+BoTat-1-1-bis,,,,BATCH3,BGI,150,T. equiperdum B,1924,Morocco,North Africa,,horse,,
+D12K-ITMAP1857,AnTar 23,,,BATCH3,BGI,150,T.b. gambiense type I,,Central African Republic,Central Africa,,,,
+F39UG,MHOM/UG/99/F39UG,,,BATCH3,BGI,150,T.b. gambiense type I,1999,Uganda,East Africa,Omougou,human,,
+Feo-AnTat-16-1-bis,FEO-PASTEUR,FEO-R,ANTAR 16,BATCH3,BGI,150,T.b. gambiense type II,1938,Togo,West Africa,,man,,
+Frala,AnTar 29,,,BATCH3,BGI,150,T.b. gambiense type I,,Côte d'Ivoire,West Africa,,,,
+MKOD-BF-80-KD3,,,,BATCH3,BGI,150,T. brucei,180,Burkina Faso,West Africa,,waterbuck,NA,NA
+MKOK-BF-80-KK1,,,,BATCH3,BGI,150,,1980,Burkina Faso,West Africa,,kob,NA,NA
+MKOK-BF-80-KK25,,,,BATCH3,BGI,150,,1980,Burkina Faso,West Africa,,kob,NA,NA
+Kenya-a,MCAM/KE/80/KETRI2480,KETRI 2480,,BATCH3,BGI,150,T. evansi A,,Kenya,East Africa,,camel,,
+Kenya-c,MCAM/KE/80/KETRI2480,KETRI 2480,,BATCH3,BGI,150,T. evansi A,,Kenya,East Africa,,camel,,
+KIN-1,,,,BATCH3,BGI,150,T.b. gambiense type I,,,,,,,
+KOLO,AnTar 24,,,BATCH3,BGI,150,T.b. gambiense type I,,Central African Republic,Central Africa,,,,
+LiTat-1-3,LiTar 1,Eliane,,BATCH3,BGI,150,T.b. gambiense type I,,Côte d'Ivoire,West Africa,,,,
+LOKO-BIIT,,,,BATCH3,BGI,150,T.b. gambiense type I,1973,Democratic Republic of the Congo,Central Africa,,human,,
+LOKO-BIIT-P2,,,,BATCH3,BGI,150,T.b. gambiense type I,1973,Democratic Republic of the Congo,Central Africa,,human,,
+MKOK-BF-80-KK7,,,,BATCH3,BGI,150,,1980,Burkina Faso,West Africa,,kob,NA,NA
+MA,AnTar 28,,,BATCH3,BGI,150,T.b. gambiense type I,,Central African Republic,Central Africa,,,,
+MKOK-BF-90-KK17,,,,BATCH3,BGI,150,,1980,Burkina Faso,West Africa,UPPER VOLTA,kob,NA,NA
+MSUS-CI-78-TSW129-cloneA,MSUS/CI/78/TSW129-cloneA,TSW 129 clone A,,BATCH2,BGI,150,T.b.,1978,Côte d'Ivoire,West Africa,Koudougou-Carrefour,pig,-1,-1
+Mbadi,MHOM/RCA/98/MBADI,,,BATCH3,BGI,150,T.b. gambiense type I,1998,Central African Republic,Central Africa,Obo,human,,
+MSUS-CI-78-TSW129-cloneC,MSUS/CI/78/TSW129-cloneC,TSW 129 clone C,,BATCH2,BGI,150,T.b.,1978,Côte d'Ivoire,West Africa,Koudougou-Carrefour,pig,-1,-1
+MSUS-CI-78-TSW168,MSUS/CI/78/TSW168,TSW 168,,BATCH2,BGI,150,T.b.,1978,Côte d'Ivoire,West Africa,Degbezere,pig,-1,-1
+MSUS-CI-78-TSW176,,,,BATCH3,BGI,150,T. brucei,1978,Côte d'Ivoire,West Africa,,pig,-1,-1
+MSUS-CI-78-TSW178,MSUS/CI/78/TSW178,TSW 178,,BATCH2,BGI,150,T.b.,1978,Côte d'Ivoire,West Africa,Degbezere,pig,-1,-1
+MSUS-CI-78-TSW185-bis,,,,BATCH3,BGI,150,T. brucei,1978,Côte d'Ivoire,West Africa,DEGBEZERE,pig,NA,NA
+MSUS-CI-78-TSW185-cloneA,MSUS/CI/78/TSW185-cloneA,TSW 185 clone A,,BATCH2,BGI,150,T.b.,1978,Côte d'Ivoire,West Africa,Degbezere,pig,-1,-1
+MSUS-CI-78-TSW185-cloneC,MSUS/CI/78/TSW185-cloneC,TSW 185 clone C,,BATCH2,BGI,150,T.b.,1978,Côte d'Ivoire,West Africa,Degbezere,pig,-1,-1
+MSUS-CI-78-TSW187-bis,,,,BATCH3,BGI,150,T. brucei,1978,Côte d'Ivoire,West Africa,KOETINGA,pig,-1,-1
+MHOM-SD-82-BIYAMINA-bis,MHOM/SD/82/BIYAMINA,BIYAMINA,K 2567,BATCH3,BGI,150,T.b. rhodesiense,1982,Sudan,North Africa,YAMBIO,man,,
+MHOM-SD-82-SUZENA,,,,BATCH3,BGI,150,T.b. gambiense type I,1982,Sudan,North Africa,Yambio,man,,
+MSUS-CI-78-TSW190,,,,BATCH3,BGI,150,T. brucei,1978,Côte d'Ivoire,West Africa,DEGBEZERE,pig,-1,-1
+MSUS-CI-78-TSW38-021,MSUS/CI/78/TSW38-021,TSW 38 021,,BATCH2,BGI,150,T.b.,1978,Côte d'Ivoire,West Africa,Sietinfla,pig,-1,-1
+MSUS-CI-78-TSW382,MSUS/CI/78/TSW382,TSW 382,TM KP 10/82/29,BATCH1,BGI,150,T.b. brucei,1978,Côte d'Ivoire,West Africa,Kouassi-Perita,pig,-1,-1
+MSUS-CI-78-TSW382-bis,MSUS/CI/78/TSW382,TSW 382,TM KP 10/82/29,BATCH3,BGI,150,T. brucei,1978,Côte d'Ivoire,West Africa,KOUASSI-PERITA,pig,-1,-1
+MSUS-CI-78-TSW390-bis,,,,BATCH3,BGI,150,T. brucei,1978,Côte d'Ivoire,West Africa,KOUASSI-PERITA,pig,-1,-1
+MOERBEKE-103,AnTar 26,,,BATCH3,BGI,150,T.b. gambiense type I,,Democratic Republic of the Congo,Central Africa,,,,
+MOERBEKE-82,AnTar 20,,,BATCH3,BGI,150,T.b. gambiense type I,,Democratic Republic of the Congo,Central Africa,,,,
+Mongo,,,,BATCH3,BGI,150,T.b. gambiense type I,,,,,,,
+MOS-bis,AnTar 18,,,BATCH3,BGI,150,T.b. gambiense type I,1974,Cameroon,Central Africa,Mbam,human,,
+MSUS-CI-82-TSW125-KP1-cloneB,MSUS/CI/82/TSW125-KP1-cloneB,TSW 125 KP1 clone B,,BATCH2,BGI,150,T.b.,1982,Côte d'Ivoire,West Africa,"Kouassi-Perita, Sassandra-Marahoué",pig,Cq 20.5,-1
+MSUS-CI-82-TSW171,,,,BATCH3,BGI,150,T. brucei,1978,Côte d'Ivoire,West Africa,DEGBEZERE,pig,NA,NA
+MSUS-CI-82-TSW23,,,,BATCH3,BGI,150,T. brucei,1982,Côte d'Ivoire,West Africa,KOUASSI-PERITA,pig,-1,-1
+MSUS-CI-82-TSW26,,,,BATCH3,BGI,150,T. brucei,1982,Côte d'Ivoire,West Africa,KOUASSI-PERITA,pig,-1,-1
+MSUS-CI-82-TSW31-BO1,MSUS/CI/82/TSW31-BO1,TSW 31 BO1,,BATCH2,BGI,150,T.b.,1982,Côte d'Ivoire,West Africa,Bohinou,pig,-1,-1
+MSUS-CI-82-TSW31-KP1,MSUS/CI/82/TSW31-KP1,TSW 31 KP1,,BATCH2,BGI,150,T.b.,1982,Côte d'Ivoire,West Africa,Kouassi-Perita,pig,-1,-1
+MSUS-CI-82-TSW32-B01,MSUS/CI/82/TSW32-BO1,TSW 32 BO1,,BATCH2,BGI,150,T.b.,1982,Côte d'Ivoire,West Africa,Bohinou,pig,-1,-1
+MSUS-CI-82-TSW35,,,,BATCH3,BGI,150,T. brucei,1982,Côte d'Ivoire,West Africa,KOUASSI-PERITA,pig,NA,NA
+MSUS-CI-82-TSW36,MSUS/CI/82/TSW36,TSW 36,,BATCH2,BGI,150,T.b.,1982,Côte d'Ivoire,West Africa,Kouassi-Perita,pig,-1,-1
+MSUS-CI-82-TSW38-B01,,,,BATCH3,BGI,150,T. brucei,1982,Côte d'Ivoire,West Africa,Bohinou,pig,NA,NA
+MSUS-CI-82-TSW46,,,,BATCH3,BGI,150,T. brucei,1982,Côte d'Ivoire,West Africa,KOUASSI-PERITA,pig,-1,-1
+MSUS-CI-82-TSW53,,,,BATCH3,BGI,150,T. brucei,1982,Côte d'Ivoire,West Africa,KOUASSI-PERITA,pig,NA,NA
+MSUS-CI-82-TSW62,MSUS/CI/82/TSW62,TSW 62,TSW 62/82E KP1,BATCH1,BGI,150,T.b. brucei,1982,Côte d'Ivoire,West Africa,Kouassi-Perita,pig,-1,-1
+MSUS-CI-82-TSW62-bis,MSUS/CI/82/TSW62,TSW 62,TSW 62/82E KP1,BATCH3,BGI,150,T. brucei,1982,Côte d'Ivoire,West Africa,Kouassi-Perita,pig,-1,-1
+MSUS-CI-82-TSW65-KP1-bis,,,,BATCH3,BGI,150,T. brucei,1982,Côte d'Ivoire,West Africa,KOUASSI-PERITA,pig,-1,-1
+MSUS-CI-82-TSW75,MSUS/CI/82/TSW75,TSW 75,,BATCH2,BGI,150,T.b.,1982,Côte d'Ivoire,West Africa,Kouassi-Perita,pig,-1,-1
+MSUS-CI-82-TSW8,,,,BATCH3,BGI,150,T. brucei,1982,Côte d'Ivoire,West Africa,KOUASSI-PERITA,pig,-1,-1
+MSUS-CI-82-TSW84,,,,BATCH3,BGI,150,T. brucei,1982,Côte d'Ivoire,West Africa,KOUASSI-PERITA,pig,-1,-1
+MSUS-CI-82-TSW95,MSUS/CI/82/TSW95,TSW 95,,BATCH2,BGI,150,T.b.,1982,Côte d'Ivoire,West Africa,Kouassi-Perita,pig,-1,-1
+NTUMA,AnTar 14,,,BATCH3,BGI,150,T.b. gambiense type I,,Democratic Republic of the Congo,Central Africa,,,,
+MSUS-CI-83-TSW-11,MSUS/CI/83/TSW11,TSW 11,TSW 11/83E B0 II,BATCH1,BGI,150,T.b. brucei,1983,Côte d'Ivoire,West Africa,Bohinou,pig,-1,-1
+Te-Ap-N-D1-bis,MEQH/VE/91/TeAp-N/D1,Te_Ap_N/D1,"TEVA 1, TEVA 505 AL 81",BATCH3,BGI,150,T. equiperdum O,1991,Venezuela,South America,,horse,,
+MSUS-CI-83-TSW12,,,,BATCH3,BGI,150,T. brucei,1983,Côte d'Ivoire,West Africa,Bohinou,pig,-1,-1
+MSUS-CI-85-PTAG-130,MSUS/CI/85/PTAG-130,PTAG-130,IPR 10130,BATCH2,BGI,150,T.b. brucei,1985,Côte d'Ivoire,West Africa,Nsukka,pig,-1,-1
+MTRG-BF-80-TS2,,,,BATCH3,BGI,150,T. brucei,1980,Burkina Faso,West Africa,,bushbuck,NA,NA
+13_97D,,,,BATCH4,BGI,150,T.b. gambiense type I,,Equatorial Guinea,Central Africa,Mbini,human,,
+14_97D,,,,BATCH4,BGI,150,T.b. gambiense type I,,Equatorial Guinea,Central Africa,Mbini,human,,
+15_97D,,,,BATCH4,BGI,150,T.b. gambiense type I,,Equatorial Guinea,Central Africa,Mbini,human,,
+A005,,,,BATCH4,BGI,150,T.b. gambiense type I,1988,Cameroon,Central Africa,Fontem,human,,
+BAT35,,,,BATCH4,BGI,150,T.b. gambiense type I,1999,Central African Republic,Central Africa,Batangafo,human,,
+BIP20,,,,BATCH4,BGI,150,T.b. gambiense type I,1999,Cameroon,Central Africa,Bipindi,human,,
+BIP28,,,,BATCH4,BGI,150,T.b. gambiense type I,1999,Cameroon,Central Africa,Bipindi,human,,
+BIP33,,,,BATCH4,BGI,150,T.b. gambiense type I,1999,Cameroon,Central Africa,Bipindi,human,,
+BIP42,,,,BATCH4,BGI,150,T.b. gambiense type I,1999,Cameroon,Central Africa,Bipindi,human,,
+C3359,,,,BATCH4,BGI,150,T.b. gambiense type I,1998,Cameroon,Central Africa,Campo,human,,
+C3392,,,,BATCH4,BGI,150,T.b. gambiense type I,1998,Cameroon,Central Africa,Campo,human,,
+Demba,,,,BATCH4,BGI,150,T.b. gambiense type I,1989,Congo-Brazzaville,Central Africa,Bouenza,human,,
+Doume1,,,,BATCH4,BGI,150,T.b. gambiense type I,2001,Cameroon,Central Africa,Doumé,human,,
+F33,,,,BATCH4,BGI,150,T.b. gambiense type I,,,,,human,,
+F39,,,,BATCH4,BGI,150,T.b. gambiense type I,,,,,human,,
+F41,,,,BATCH4,BGI,150,T.b. gambiense type I,,,,,human,,
+F42,,,,BATCH4,BGI,150,T.b. gambiense type I,,,,,human,,
+Leontio,,,,BATCH4,BGI,150,T.b. gambiense type I,1997,Equatorial Guinea,Central Africa,Kogo,human,,
+Mibene,,,,BATCH4,BGI,150,T.b. gambiense type I,1996,Cameroon,Central Africa,Campo,human,,
+Moyox2,,,,BATCH4,BGI,150,T.b. gambiense type I,1998,Uganda,East Africa,Moyo,human,,
+Muraz3,,,,BATCH4,BGI,150,T.b. gambiense type II,1979,Côte d'Ivoire,West Africa,Daloa,human,,
+P26F,,,,BATCH4,BGI,150,T.b. gambiense type I,,Cameroon,Central Africa,Fontem,pig,,
+P16F,,,,BATCH3,BGI,150,,,Cameroon,Central Africa,Fontem,pig,NA,NA
+R47,,,,BATCH4,BGI,150,T.b. gambiense type I,1998,Uganda,East Africa,Moyo,human,,
+P8F,,,,BATCH4,BGI,150,T.b. brucei,,Cameroon,Central Africa,Fontem,human,NA,NA
+PA,,,,WEIR,ILLUMINA,75,,,,,,,NA,NA
+1052,,,,WEIR,ILLUMINA,75,T.b. rhodesiense,1961,Kenya,East Africa,Nyanza,,man,
+2561,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1997,Côte d'Ivoire,West Africa,Sinfra,Sassandra-Marahoué,man,
+1317-2-kivi,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2001,Côte d'Ivoire,West Africa,Oumé,Gôh-Djiboua,man,
+S12-9-5R,,,,WEIR,ILLUMINA,100,,,,,,,NA,NA
+4ANNEE-13-kivi,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Dubreka,Kindia Region,man,
+70-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+S14-1-1S,,,,WEIR,ILLUMINA,100,,,,,,,NA,NA
+ABTOR,MHOM/CI/83/DAL543,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1983,Côte d'Ivoire,West Africa,Vavoua,Sassandra-Marahoué,man,
+ADZAM,MHOM/CI/83/DAL542,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1983,Côte d'Ivoire,West Africa,Vavoua,Sassandra-Marahoué,man,
+Aman-kivi,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2001,Côte d'Ivoire,West Africa,Oumé,Gôh-Djiboua,man,
+B13-9,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+B15-7,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+B18-9,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,,,,,,,
+B34-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+B4-4163P,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2004,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+S14-5-1S,,,,WEIR,ILLUMINA,100,,,,,,,NA,NA
+B4-F303P,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2004,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+B4-G2P,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2004,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+B4-I314P,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2004,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+B4-I351,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,,,,,,,
+B5-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+B7-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2001,Côte d'Ivoire,West Africa,Oumé,Gôh-Djiboua,man,
+SitaBip1,,,,BATCH4,BGI,150,T.b. brucei,,Cameroon,Central Africa,Bipindi,,NA,NA
+BIM_1,MHOM/CM/75/BIM,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1975,Cameroon,Central Africa,Campo,,man,
+BRAZO,MHOM/CI/84/DAL740,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1984,Côte d'Ivoire,West Africa,Vavoua,Sassandra-Marahoué,man,
+Brob7-16-kivi,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Dubreka,Kindia Region,man,
+CB5-1,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+cP1-2-kivi,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2001,Côte d'Ivoire,West Africa,Oumé,Gôh-Djiboua,man,
+DEOLA,MHOM/CI/84/DAL629,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1984,Côte d'Ivoire,West Africa,Daloa,Sassandra-Marahoué,man,
+Dob112-kivi,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Dob7-1,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+ELIANE,MHOM/CI/52/ELIANE,,,WEIR,ILLUMINA,75,T.b. gambiense type I,1952,Côte d'Ivoire,West Africa,Daloa,Sassandra-Marahoué,man,
+F10-5,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+F12-20,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+F2-1,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+F2-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,,,,,,,
+F31-4,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+F34-1,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+F35-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+F4-1,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+F55-3,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+F7-6,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Guinea,West Africa,Dubreka,Kindia Region,man,
+GYBO,,,,WEIR,ILLUMINA,75,T.b. rhodesiense,1984,Tanzania,East Africa,Tanzania,,man,
+ISTI,MHOM/CI/83/DAL607,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1983,Côte d'Ivoire,West Africa,Daloa,Sassandra-Marahoué,man,
+K975-TAKE1,,,,WEIR,ILLUMINA,75,T.b. rhodesiense,1970,Kenya,East Africa,Kiboko,,fly,
+K975-TAKE2,,,,WEIR,ILLUMINA,100,T.b. rhodesiense,1970,Kenya,East Africa,Kiboko,,fly,
+Kac4-10,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Dubreka,Kindia Region,man,
+Kemb9-5,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Dubreka,Kindia Region,man,
+Khob34-1,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Dubreka,Kindia Region,man,
+KIDE,MHOM/CI/83/DAL595,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1983,Côte d'Ivoire,West Africa,Gagnoa,Gôh-Djiboua,man,
+KOBIR,MHOM/CI/82/DAL503,,,WEIR,ILLUMINA,75,T.b. gambiense type II,1982,Côte d'Ivoire,West Africa,Daloa,,man,
+LAB13-5,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Lab13-5,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,,Guinea,West Africa,Boffa,Kindia Region,,
+LAB15-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Lab15-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,,Guinea,West Africa,Boffa,Kindia Region,,
+LAB27-4,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Lac11-1,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Lac14-3,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Lac22-10,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Lac22-11,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+LIGO_b,MHOM/CI/84/DAL655,,,WEIR,ILLUMINA,75,T.b. gambiense type I,1984,Côte d'Ivoire,West Africa,Daloa,Sassandra-Marahoué,man,
+LISA,MHOM/CI/83/DAL642,,,WEIR,ILLUMINA,75,T.b. gambiense type I,1983,Côte d'Ivoire,West Africa,Daloa,Sassandra-Marahoué,man,
+MOS,MHOM/CM/74/MOS,,,WEIR,ILLUMINA,75,T.b. gambiense type I,1974,Cameroon,Central Africa,Mbam,,man,
+OUSOU_b,MHOM/CI/82/DAL494,,,WEIR,ILLUMINA,75,T.b. gambiense type II,1982,Côte d'Ivoire,West Africa,Daloa,,man,
+SN54-TREU96,,,,BATCH4,BGI,150,T. brucei,,,,,,NA,NA
+S1_17_6R,,,,WEIR,ILLUMINA,75,T.b. gambiense type I,,,,,,,
+S1-1-6R,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+TB247,STIB247,,,WEIR,ILLUMINA,76,T.b. brucei,1972,Tanzania,East Africa,Serengeti,,NA,NA
+S14_5_1,MHOM/CI/02/S14/5/1,,,WEIR,ILLUMINA,75,T.b. gambiense type I,2002,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+TB927,TREU927/4,,,WEIR,ILLUMINA,76,T.b. brucei,1969,Kenya,East Africa,,,NA,NA
+TRPZ26,,,,BATCH3,BGI,150,,,,,,,NA,NA
+S15-1-kivi,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+S27-16-13,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2000,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+S27-2-6,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2000,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+S3-4-1,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2000,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+S7-2-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+Sac1-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Sac23-3,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+SAKON,MHOM/CI/83/DAL403,,,WEIR,ILLUMINA,75,T.b. gambiense type I,1983,Côte d'Ivoire,West Africa,Daloa,Sassandra-Marahoué,man,
+SETRA,MHOM/CI/79/THDAL083,,,WEIR,ILLUMINA,75,T.b. gambiense type I,1979,Côte d'Ivoire,West Africa,Vavoua,Sassandra-Marahoué,man,
+SEVAL,MHOM/CI/84/DAL633,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1984,Côte d'Ivoire,West Africa,Daloa,Sassandra-Marahoué,man,
+T21-4A,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1999,Côte d'Ivoire,West Africa,Grand8Zathry,,man,
+T33-1-7-kivi,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2000,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+T4-2-kivi,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2001,Côte d'Ivoire,West Africa,Oumé,Gôh-Djiboua,man,
+T66-4-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2000,Côte d'Ivoire,West Africa,Bonon,Sassandra-Marahoué,man,
+TSW33-TAKE2,,,,WEIR,ILLUMINA,100,,1982,Côte d'Ivoire,West Africa,Bouafle ,,NA,NA
+TB386,MHOM/CI/78/TH114,,,WEIR,ILLUMINA,76,T.b. gambiense type II,1978,Côte d'Ivoire,West Africa,Koudougou,,man,
+TT22-4R,,,,WEIR,ILLUMINA,100,,,,,,,NA,NA
+TH1-29-7,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+TOBO,DAL596,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1983,Côte d'Ivoire,West Africa,Daloa,Sassandra-Marahoué,man,
+TSW33-TAKE1,,,,WEIR,ILLUMINA,75,T.b. gambiense type II,1982,Côte d'Ivoire,West Africa,Bouafle ,,man,
+UTAT-1-1,,,,BATCH3,BGI,150,,,,,,,NA,NA
+YAOUNDE,,,,BATCH3,BGI,150,,,,,,,NA,NA
+Wab18-23,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Wab22-6,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Wab6-1,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+YAD,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1998,Côte d'Ivoire,West Africa,Sinfra,Sassandra-Marahoué,man,
+Yemb3-7,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Yemb41-2,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+YENB17-4,,,,WEIR,ILLUMINA,100,T.b. gambiense type I,2002,Guinea,West Africa,Boffa,Kindia Region,man,
+Z210,,,,WEIR,ILLUMINA,75,T.b. rhodesiense,1984,Zambia,Southern Africa ,Luangwa,,man,
+ZENOU,MHOM/CI/83/DAL625,,,WEIR,ILLUMINA,100,T.b. gambiense type I,1983,Côte d'Ivoire,West Africa,Daloa,Sassandra-Marahoué,man,

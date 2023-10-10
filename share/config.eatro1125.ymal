@@ -1,0 +1,46 @@
+# Directories
+project:              /mnt/sdb/zed/Tb_Fre_WGS/minicircle_family_pipeline_design
+in directory:         In_files
+working directory:    Work_files_EATRO1125
+annotation directory: Annotation_EATRO1125
+
+# Annotation sub-directories
+alignments directory: Alignments
+genbank directory:    Genbank
+species:              Trypanosoma brucei brucei
+surfix:               Tbb
+strain:               EATRO1125
+continent:            EA #EA WA NA SA CA na
+country:              Uganda
+Year of isolation:    1967
+
+#======================================================
+##load data(base)
+dicts_pickle: all_Tb_updated_4_dicts.pickle #data for all the strains analysed so far
+EATRO1125 edited mRNA fasta: edited_Tb_Antat_1.1_mRNA.fasta
+Tbg1 edited mRNA fasta: Tbg1_edited_mRNAs.fasta
+
+#files from user
+# mRNA_process.py: Process edited and unedited mRNA files
+unedited mRNA fasta infile:    unedited_Tb_Antat_1.1_mRNA.fasta
+edited mRNA fasta infile:      edited_Tb_Antat_1.1_mRNA.fasta
+gRNAs for strain of interest:  EATRO1125_gRNAs_2023-04-28.txt
+
+#outfiles
+visualize initiation site starting points: yes #no #yes
+adjusted gRNAs: gRNA_dict.adjusted.pickle
+
+#=======================================================
+##assign minicircle families
+minicircle copy number: Tb_normalized2maxi30_v3_mini_copy.csv
+metadata: updated_metadata_isolates_2022-01-09.csv
+extend boundary left: 3
+extend boundary right: 3
+minicircle family pickle: minicircle_families.pickle
+
+#=======================================================
+##morphological sequence
+cutoff for related minicircles: 0.6 #0.6 is the suggested default
+minicircle family database:   mini_fam_database.pickle
+morphological sequence:       mf_morphology_seq.id06.fasta
+make phylogeny with default iqtree settings: no  #no #yes
